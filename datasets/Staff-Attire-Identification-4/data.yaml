@@ -1,0 +1,12 @@
+names:
+- name-tag
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: staff-attire-identification
+  url: https://universe.roboflow.com/qi-ming/staff-attire-identification/dataset/4
+  version: 4
+  workspace: qi-ming
+test: ../test/images
+train: Staff-Attire-Identification-4/train/images
+val: Staff-Attire-Identification-4/valid/images
